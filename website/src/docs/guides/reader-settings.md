@@ -1,3 +1,4 @@
+anime manga 
 ---
 title: Reader settings
 titleTemplate: Guides
